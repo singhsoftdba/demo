@@ -7,8 +7,8 @@
 				"location": "East US",
 				"dataFlowProperties": {
 					"computeType": "General",
-					"coreCount": 272,
-					"timeToLive": 10,
+					"coreCount": 8,
+					"timeToLive": 60,
 					"cleanup": false
 				}
 			}
