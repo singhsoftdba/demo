@@ -1,0 +1,12 @@
+{
+	"name": "singh",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/804be721-2d79-4132-a058-b0560eceb187/resourcegroups/testshir/providers/Microsoft.DataFactory/factories/testshir143/integrationruntimes/integrationRuntime2",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
