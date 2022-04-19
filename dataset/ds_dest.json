@@ -1,10 +1,6 @@
 {
 	"name": "ds_dest",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ls_azblob_restapi",
-			"type": "LinkedServiceReference"
-		},
 		"parameters": {
 			"ds_pram_sinfl": {
 				"type": "string"

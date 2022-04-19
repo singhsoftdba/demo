@@ -1,16 +1,6 @@
 {
 	"name": "ds_rest",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ls_restapi",
-			"type": "LinkedServiceReference",
-			"parameters": {
-				"ls_param_url": {
-					"value": "@dataset().ds_param_sorceurl",
-					"type": "Expression"
-				}
-			}
-		},
 		"parameters": {
 			"ds_param_sorceurl": {
 				"type": "string"
